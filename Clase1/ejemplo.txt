@@ -1,6 +1,0 @@
-Slice.js es un framework de desarrollo Web
-Basado en componentes que permite a los programadores
-construir aplicaciones web de manera organizada
-brindando encapsulamiento y una estructura de proyecto
-escalable y optimizada.
-
