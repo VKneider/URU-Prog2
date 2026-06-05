@@ -1,0 +1,11 @@
+1.- Abrir powershell en modo administrador
+2.- Copiar y pegar esta línea en la terminal
+
+• Set-ExecutionPolicy Bypass -Scope Process -Force
+
+3.- Descargar script aquí presente
+
+4.-Copiar y pegar esta línea en terminal
+
+• C:\Users\LABORATORIO\Downloads
+• ./script.ps1
